@@ -1,4 +1,4 @@
-# 📊 SQL + Tableau Fraud Detection Dashboard
+# 📊 SQL + Tableau Fraud Detection Dashboards
 
 This section of the project focuses on integrating **SQL data analysis** with **Tableau visualization** to assess data integrity and fraud detection model performance.
 
