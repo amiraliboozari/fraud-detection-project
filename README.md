@@ -1,4 +1,5 @@
-# Fraud Detection Project
+# 🚀 End-to-End Fraud Detection with SQL, Python & Tableau  
+### Identifying fraudulent transactions using data analysis, machine learning, and visualization.
 
 This is my capstone project for the Google Advanced Data Analytics Certificate.  
 The goal is to analyze financial transactions and detect fraudulent activity using both **Python/Streamlit** and **SQL + Tableau**.
