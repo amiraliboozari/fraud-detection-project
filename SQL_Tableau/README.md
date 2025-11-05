@@ -25,7 +25,7 @@ This dashboard identifies discrepancies between **origin** and **destination** t
 A higher inconsistency at the origin side indicates that mismatches occur more frequently at transaction initiation. These inconsistencies may signal data quality issues or reporting errors that can impact downstream fraud detection accuracy.
 
 ### 📉 Visualization
-![Data Integrity Overview](../images/Data%20Integrity%20Overview.png)
+![Fraud Detection Overview](./Tableau_Exports/Dashboards/Fraud%20Dectection%20Overview.png)
 
 ---
 
@@ -45,7 +45,7 @@ This dashboard evaluates how effectively the fraud detection system identifies a
 While the system identifies some true frauds, the high number of missed frauds indicates opportunities to improve recall and fine-tune detection thresholds.
 
 ### 📊 Visualization
-![Fraud Detection Overview](../images/Fraud%20Dectection%20Overview.png)
+![Data Integrity Overview](./Tableau_Exports/Dashboards/Data%20Integrity%20Overview.png)
 
 ---
 
@@ -63,7 +63,7 @@ This dashboard provides a deeper look at model performance, visualizing detectio
 The analysis shows the model is cautious but may under-detect fraud. Adjusting detection thresholds could improve accuracy and recall balance.
 
 ### 📊 Visualization
-![Fraud Detection Performance Insights](../images/Fraud%20Dectection%20Perfomence%20Insights.png)
+![Fraud Detection Performance Insights](./Tableau_Exports/Dashboards/Fraud%20Dectection%20Perfomence%20Insights.png)
 
 ---
 
