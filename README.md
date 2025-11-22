@@ -1,4 +1,4 @@
-# 🚀 End-to-End Fraud Detection with SQL, Python & Tableau  
+# 🚀 End-to-End Fraud Detection with Machine Learning/Python & SQL/Tableau  
 ### Identifying fraudulent transactions using data analysis, machine learning, and visualization.
 
 This is my capstone project for the Google Advanced Data Analytics Certificate.  
