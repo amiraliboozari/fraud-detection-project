@@ -18,7 +18,7 @@ You can download it yourself from Kaggle if you’d like to reproduce the projec
 📈 [License of Dataset](https://www.mit.edu/~amini/LICENSE.md)
 
 ## Project Versions
-- [**Python + Streamlit:**](https://github.com/amiraliboozari/fraud-detection-project/tree/main/ML_Web_App) Machine learning model, evaluation, and interactive web app.  
+- [**Python + ML:**](https://github.com/amiraliboozari/fraud-detection-project/tree/main/ML_Web_App) Machine learning model, evaluation, and interactive web app.  
 - [**SQL + Tableau:**](https://github.com/amiraliboozari/fraud-detection-project/tree/main/SQL_Tableau) Business-focused analysis and dashboards.  
 
 ⚙️ Tools & Technologies
